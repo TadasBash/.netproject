@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamuD", "NamuD\NamuD.csproj", "{18BAC516-6E3A-43F3-9069-98D99FD27D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamuD.Library", "NamuD.Library\NamuD.Library.csproj", "{0226C255-B149-4809-8847-6C26EFF6A62A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18BAC516-6E3A-43F3-9069-98D99FD27D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BAC516-6E3A-43F3-9069-98D99FD27D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BAC516-6E3A-43F3-9069-98D99FD27D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BAC516-6E3A-43F3-9069-98D99FD27D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0226C255-B149-4809-8847-6C26EFF6A62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0226C255-B149-4809-8847-6C26EFF6A62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0226C255-B149-4809-8847-6C26EFF6A62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0226C255-B149-4809-8847-6C26EFF6A62A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "NamuD.Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/NamuD.Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NamuD.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NamuD.Library/1.0.0": {
+      "type": "project",
+      "path": "../NamuD.Library/NamuD.Library.csproj",
+      "msbuildProject": "../NamuD.Library/NamuD.Library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "NamuD.Library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tadas\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tadas\\RiderProjects\\NamuD\\NamuD\\NamuD.csproj",
+      "projectName": "NamuD",
+      "projectPath": "C:\\Users\\tadas\\RiderProjects\\NamuD\\NamuD\\NamuD.csproj",
+      "packagesPath": "C:\\Users\\tadas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tadas\\RiderProjects\\NamuD\\NamuD\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\tadas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {
+            "C:\\Users\\tadas\\RiderProjects\\NamuD\\NamuD.Library\\NamuD.Library.csproj": {
+              "projectPath": "C:\\Users\\tadas\\RiderProjects\\NamuD\\NamuD.Library\\NamuD.Library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\tadas\\.dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

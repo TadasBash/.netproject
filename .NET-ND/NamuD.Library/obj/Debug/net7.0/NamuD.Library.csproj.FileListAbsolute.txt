@@ -1,0 +1,11 @@
+C:\Users\tadas\RiderProjects\NamuD\NamuD.Library\bin\Debug\net7.0\NamuD.Library.deps.json
+C:\Users\tadas\RiderProjects\NamuD\NamuD.Library\bin\Debug\net7.0\NamuD.Library.dll
+C:\Users\tadas\RiderProjects\NamuD\NamuD.Library\bin\Debug\net7.0\NamuD.Library.pdb
+C:\Users\tadas\RiderProjects\NamuD\NamuD.Library\obj\Debug\net7.0\NamuD.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tadas\RiderProjects\NamuD\NamuD.Library\obj\Debug\net7.0\NamuD.Library.AssemblyInfoInputs.cache
+C:\Users\tadas\RiderProjects\NamuD\NamuD.Library\obj\Debug\net7.0\NamuD.Library.AssemblyInfo.cs
+C:\Users\tadas\RiderProjects\NamuD\NamuD.Library\obj\Debug\net7.0\NamuD.Library.csproj.CoreCompileInputs.cache
+C:\Users\tadas\RiderProjects\NamuD\NamuD.Library\obj\Debug\net7.0\NamuD.Library.dll
+C:\Users\tadas\RiderProjects\NamuD\NamuD.Library\obj\Debug\net7.0\refint\NamuD.Library.dll
+C:\Users\tadas\RiderProjects\NamuD\NamuD.Library\obj\Debug\net7.0\NamuD.Library.pdb
+C:\Users\tadas\RiderProjects\NamuD\NamuD.Library\obj\Debug\net7.0\ref\NamuD.Library.dll
